@@ -62,3 +62,4 @@
 rajput = "chauhan"
 print(rajput)
 print(type(rajput))
+print(rajput)
