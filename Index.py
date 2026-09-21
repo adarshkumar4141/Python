@@ -59,10 +59,10 @@
 # print(type(salary))
 # print("salary")
 
-rajput = "chauhan"
-print(rajput)
-print(type(rajput))
-print(rajput)
+# rajput = "chauhan"
+# print(rajput)
+# print(type(rajput))
+# print(rajput)
 # if True:
 #     print("hello")
 
@@ -250,5 +250,46 @@ print(rajput)
 # print(adarsh.count(2))
 # print(adarsh.count(3))
 # print(adarsh.index(3))
+
+
+# print("A">"a")
+# print(ord("a"))
+# print(ord("A"))
+# print(chr(65))
+# print("car">"cat")
+# print(ord("r"))
+# print(ord("t"))
+
+# print(''' Twinkle, twinkle, little star,
+# How I wonder what you are!
+# Up above the world so high,
+# Like a diamond in the sky.
+
+# When the blazing sun is gone,
+# When he nothing shines upon,
+# Then you show your little light,
+# Twinkle, twinkle, all the night.''')
+
+# print("""My name is Adarsh Singh""")
+
+# a=("Adarsh\npython")
+# print(a)
+
+# print("VtVfHrVJFJKMbnvhj".swapcase())
+# print("ADARSH chauhan".swapcase())
+# print("ADARSH chauhan".casefold())
+# #print ("python".center(50))
+# print("python".ljust (50))
+# print("python".rjust (50))
+
+# print("Banana".count("a"))
+# print("Banana".startswith("B"))
+# print("Banana".endswith("n"))
+# print("Quad". isalpha())
+# print("Quad123".isalnum())
+# print("123".isdigit())
+# print("123".isnumeric())
+# print("12".isdecimal())
+# print(" ".isspace())
 
 
