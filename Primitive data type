@@ -1,0 +1,158 @@
+# BASIC PROBLEM OF PYTHON:-
+# age =25 
+# print(type(age))
+# name = "Damodar" 
+# print (type (name))
+# salary =1000000.50
+# print(type(salary))
+# 10+20
+# print (10+20)
+# "10"+"20"
+# print("10"+"20")
+
+# OPERATOR PROBLEMS IN PYTHON:-
+# a = 10
+# b = 3
+# print (a+b)
+# print (a-b)
+# print (a*b)
+# print (a%b)
+# print ( a/b)
+# print (a//b)
+# print (a**b)
+# boys = 20
+# girls = 30
+# print(boys +girls)
+
+# PRIMITIVE DATA TYPES IN PYTHON:-
+# z = 2 + 3j
+# print (type(z)) 
+# print ()
+# students = 50
+# print (students)
+# # print(type(students))
+
+# price = 99.99
+# print("price")
+# print (price)
+# print (type(price))
+
+# distance = 12.5
+# travelled =distance*2
+# print(travelled)
+
+# z = 2+ 3j
+# print(z)
+# print(type(z))
+# a = 3+4j
+# b=6+3j
+# # print(a+b)
+
+# is_logged_in =True
+# print(is_logged_in)
+# print (type (is_logged_in))
+# age =20 
+# print(age>=18)
+# print(type(age>=18))
+
+# name = "Adarsh chauhan"
+# print(name)
+# print(type(name))
+# salary = 20000000
+# print(salary)
+# print(type(salary))
+# print("salary")
+
+# rajput = "chauhan"
+# print(rajput)
+# print(type(rajput))
+
+# age = 20
+# if age >= 18:
+#     print("Eligible")
+
+# name = "abhijeet"
+# print(name) 
+# print(type("abhijeet"))
+# age = 27
+# print(age)
+# print(type(age))
+
+# "student started learning python"
+# print("student started learning python")
+# age =20
+# if age>=18:
+#     print("eligible")
+#     print(type(age))
+
+# if True:
+#     print("hello")
+
+# if True:
+#     print("A")  
+#     print("B")  
+
+# NONE TYPE PRIMITIVE DATA:-
+# username ="none"
+# print(type("none"))
+# print(username)
+
+# api_response = None
+# if api_response is None:
+#     print("Failed to fetch data from the server.") 
+# else:
+#     print("data recieved succesfully")
+
+# PRIMITIVE DATA TYPE PROBLEMS[MIXED]:-
+# age = 24
+# print(age)
+# print(type(age))
+
+# name="adarsh"
+# print(name)
+# print(type(name))
+
+# price=45.50
+# print(price)
+# print(type(45.50))
+    
+# x=10
+# y=20
+# z=30
+# # print(x+y+z)
+# a =10
+# b=10
+# if a is b:
+#     print("y")
+# else:
+#     print*("n")
+
+# def a(b ,c):
+#     print(b+c)
+# a(10,10)
+
+# a ="quad"
+# print(len(a))
+
+# a = "quad"
+# b ="AI"
+# print(len(a))
+# print(a, " +",b)
+# print(a.replace("q" ,"K"))
+# print(a.lower())
+# print(a.upper())
+
+# SOME MORE PROBLEMS IN PRIMITIVE DATA TYPE:-
+# first = "python"
+# second = "coding"
+# result = first +" " + second
+# print(result) 
+
+# first_name ="Alice"
+# Last_name = "Smith"
+# full_name =first_name+ " " + Last_name
+# print(full_name)
+
+
+
+
